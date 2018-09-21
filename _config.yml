@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : I'm AndyWong
+tagline: 人在塔在
 assets: /assets
 url:
 baseurl:
@@ -40,6 +40,11 @@ language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 #### Menu
 menu:
   Home: /
+  Spring: /
+  SpringMvc: /
+  Mybatis: /
+  concurrent: /
+  designPattern: /
   Archives: /archives
   About: /about
 ## you can create `tags` and `categories` folders (I had created them already).
