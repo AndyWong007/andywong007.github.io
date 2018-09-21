@@ -43,8 +43,8 @@ menu:
   Spring: /
   SpringMvc: /
   Mybatis: /
-  concurrent: /
-  designPattern: /
+  Concurrent: /
+  DesignPattern: /
   Archives: /archives
   About: /about
 ## you can create `tags` and `categories` folders (I had created them already).
